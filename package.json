@@ -1,6 +1,6 @@
 {
   "name": "reliability-compute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compute the reliability of a compound system described as a graph",
   "main": "index.js",
   "scripts": {
